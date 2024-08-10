@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     pic.style.transformOrigin = left + " " + top;
 
-    pic.addEventListener( function(){
+    pic.addEventListener('click', function(){
       pics.addEventListener( function(p){
         p.classList.toggle('away')
       })
