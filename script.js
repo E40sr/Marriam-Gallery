@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
     pic.addEventListener('click', function(){
       pics.forEach( function(p){
         p.classList.toggle('away')
+        p.classList.remove('active')
       })
       pic.classList.remove('away')
       pic.classList.toggle('active')
