@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
     pic.style.transformOrigin = left + " " + top;
 
     pic.addEventListener('click', function(){
-      pics.addEventListener( function(p){
+      pics.forEach( function(p){
         p.classList.toggle('away')
       })
       pic.classList.remove('away')
