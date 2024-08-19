@@ -28,6 +28,7 @@ body {
   overflow: hidden;
   background: #fff;
   color: #fff;
+  color: #444;
   font-family: "Open sans", Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smothing: grayscale;
