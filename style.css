@@ -32,6 +32,10 @@ body {
   font-family: "Open sans", Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smothing: grayscale;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .pics {
