@@ -11,9 +11,7 @@ body {
 }
 
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  
   background: url('cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsX29mZmljZV8zM193YWxscGFwZXJfcGF0dGVybl9vZl9wYXN0ZWxfY29sb3JlZF9wZW5jaWxfdF9kNzIzNTM5YS1iMDJiLTQ0ZmItYjA5Zi1mNzQwNjMxYjM1NTNfMS5qcGc.jpg');
   background-size: cover;
   background-repeat: none;
